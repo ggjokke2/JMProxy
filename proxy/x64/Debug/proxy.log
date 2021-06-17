@@ -1,0 +1,39 @@
+﻿  callbacks.c
+  compress.c
+  host.c
+  list.c
+  packet.c
+  peer.c
+  protocol.c
+  unix.c
+  win32.c
+  sandbird.c
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\sandbird\sandbird.c(520,59): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\sandbird\sandbird.c(834,54): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\sandbird\sandbird.c(897,20): warning C4244: 'function': conversion from 'sb_Socket' to 'int', possible loss of data
+  Generating Code...
+  events.cpp
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\events.cpp(202,79): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\events.cpp(346,60): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  gt.cpp
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  http.cpp
+  proxy.cpp
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  server.cpp
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  utils.cpp
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\proton\variant.hpp(322,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\proton\variant.hpp(339,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\proxy\proton\variant.hpp(355,1): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  Generating Code...
+  proxy.vcxproj -> C:\Users\ggjok\OneDrive\Työpöytä\JMProxy By Joakim Meriko\x64\Debug\proxy.exe
